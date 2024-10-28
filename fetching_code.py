@@ -1,7 +1,7 @@
 import requests
 import csv
 
-GITHUB_TOKEN = "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"
+GITHUB_TOKEN = ""
 HEADERS = {"Authorization": f"token {GITHUB_TOKEN}"}
 
 def get_users_in_barcelona():
